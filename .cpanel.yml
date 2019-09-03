@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=\Users\haydenut\PhpstormProjects\Bootstrap
+    - /bin/cp -R images $DEPLOYPATH
